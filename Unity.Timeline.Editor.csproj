@@ -161,8 +161,8 @@
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\DirectorNamedColor.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Animation\TimelineAnimationUtilities.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Utilities\TimeFormat.cs" />
-    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\TimelineHelpers.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Animation\AnimationClipActions.cs" />
+    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\TimelineHelpers.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\treeview\ManipulationsTracks.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Items\ItemsGroup.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Actions\MarkerActions.cs" />
@@ -189,8 +189,8 @@
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Manipulators\Trim\TrimItemModeRipple.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Window\TimelineWindow_HeaderGui.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\treeview\ManipulationsClips.cs" />
-    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Window\ViewModel\ScriptableObjectViewPrefs.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Animation\AnimationClipCurveCache.cs" />
+    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Window\ViewModel\ScriptableObjectViewPrefs.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Utilities\Scopes\IndentLevelScope.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Undo\UndoExtensions.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Extensions\AnimationTrackExtensions.cs" />
@@ -229,8 +229,8 @@
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Signals\SignalManager.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Manipulators\Cursors\TimelineCursors.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\inspectors\BuiltInCurvePresets.cs" />
-    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\treeview\IRowGUI.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\inspectors\EditorClipFactory.cs" />
+    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\treeview\IRowGUI.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Audio\AudioPlayableAssetEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Animation\AnimationPlayableAssetEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\treeview\TrackGui\TrackResizeHandle.cs" />
@@ -691,19 +691,19 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="unityplastic">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+      <HintPath>Library\PackageCache\com.unity.collab-proxy@2.7.1\Lib\Editor\unityplastic.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+      <HintPath>Library\PackageCache\com.unity.collab-proxy@2.7.1\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <HintPath>Library\PackageCache\com.unity.collab-proxy@2.7.1\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="log4netPlastic">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+      <HintPath>Library\PackageCache\com.unity.collab-proxy@2.7.1\Lib\Editor\log4netPlastic.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
